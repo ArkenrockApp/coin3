@@ -12,10 +12,10 @@
       "placements": ["interstitial", "rewarded"],
       "image_url": "https://arkenrockapp.github.io/coin/Interstitial_1.png",
       "icon_url": "https://arkenrockapp.github.io/coin/icon.png",
-      "title": "Real Strіke Game",
-      "body": "Jump into Real Strike Game, sharpen your skills and conquer every challenge!",
+      "title": "Strіke Game",
+      "body": "Jump into Strіke Game, sharpen your skills and conquer every challenge!",
       "cta_text": "Install",
-      "bundle_id": "com.kalshi.golf.experience",
+      "bundle_id": "com.bigsound.basstoolkit",
       "weight": 1
     },
     {
@@ -24,10 +24,10 @@
       "placements": ["interstitial", "rewarded"],
       "image_url": "https://arkenrockapp.github.io/coin/Interstitial_2.png",
       "icon_url": "https://arkenrockapp.github.io/coin/icon.png",
-      "title": "Real Strіke Game",
-      "body": "Experience exciting action and powerful strikes in Real Strike Game!",
+      "title": "Strіke Game",
+      "body": "Experience exciting action and powerful strikes in Strіke Game!",
       "cta_text": "Install",
-      "bundle_id": "com.kalshi.golf.experience",
+      "bundle_id": "com.bigsound.basstoolkit",
       "weight": 1
     },
     {
@@ -36,10 +36,10 @@
       "placements": ["interstitial", "rewarded"],
       "image_url": "https://arkenrockapp.github.io/coin/Interstitial_3.png",
       "icon_url": "https://arkenrockapp.github.io/coin/icon.png",
-      "title": "Real Strіke Game",
-      "body": "Master every move, hit your targets and become a Real Strike Game champion!",
+      "title": "Strіke Game",
+      "body": "Master every move, hit your targets and become a Strіke Game champion!",
       "cta_text": "Install",
-      "bundle_id": "com.kalshi.golf.experience",
+      "bundle_id": "com.bigsound.basstoolkit",
       "weight": 1
     },
     {
@@ -47,10 +47,10 @@
       "format": "text",
       "placements": ["interstitial", "rewarded"],
       "icon_url": "https://arkenrockapp.github.io/coin/icon.png",
-      "title": "Real Strіke Game",
-      "body": "Discover Real Strike Game and take on thrilling new challenges!",
+      "title": "Strіke Game",
+      "body": "Discover Strіke Game and take on thrilling new challenges!",
       "cta_text": "Install",
-      "bundle_id": "com.kalshi.golf.experience",
+      "bundle_id": "com.bigsound.basstoolkit",
       "weight": 1
     },
     {
@@ -58,10 +58,10 @@
       "format": "text",
       "placements": ["interstitial", "rewarded"],
       "icon_url": "https://arkenrockapp.github.io/coin/icon.png",
-      "title": "Real Strіke Game",
-      "body": "Play Real Strike Game, improve your skills and aim for victory!",
+      "title": "Strіke Game",
+      "body": "Play Strіke Game, improve your skills and aim for victory!",
       "cta_text": "Install",
-      "bundle_id": "com.kalshi.golf.experience",
+      "bundle_id": "com.bigsound.basstoolkit",
       "weight": 1
     },
     {
@@ -70,10 +70,10 @@
       "placements": ["banner"],
       "image_url": "https://arkenrockapp.github.io/coin/BannerAd_1.png",
       "icon_url": "https://arkenrockapp.github.io/coin/icon.png",
-      "title": "Real Strіke Game",
-      "body": "Your next Real Strike Game challenge starts here!",
+      "title": "Strіke Game",
+      "body": "Your next Strіke Game challenge starts here!",
       "cta_text": "Install",
-      "bundle_id": "com.kalshi.golf.experience",
+      "bundle_id": "com.bigsound.basstoolkit",
       "weight": 1
     },
     {
@@ -82,10 +82,10 @@
       "placements": ["banner"],
       "image_url": "https://arkenrockapp.github.io/coin/BannerAd_2.png",
       "icon_url": "https://arkenrockapp.github.io/coin/icon.png",
-      "title": "Real Strіke Game",
-      "body": "Get ready for exciting strikes and nonstop action!",
+      "title": "Strіke Game",
+      "body": "Get ready for exciting strikes and nonstop action in Strіke Game!",
       "cta_text": "Install",
-      "bundle_id": "com.kalshi.golf.experience",
+      "bundle_id": "com.bigsound.basstoolkit",
       "weight": 1
     },
     {
@@ -94,10 +94,10 @@
       "placements": ["banner"],
       "image_url": "https://arkenrockapp.github.io/coin/BannerAd_3.png",
       "icon_url": "https://arkenrockapp.github.io/coin/icon.png",
-      "title": "Real Strіke Game",
-      "body": "Join Real Strike Game and show your winning skills!",
+      "title": "Strіke Game",
+      "body": "Join Strіke Game and show your winning skills!",
       "cta_text": "Install",
-      "bundle_id": "com.kalshi.golf.experience",
+      "bundle_id": "com.bigsound.basstoolkit",
       "weight": 1
     },
     {
@@ -105,10 +105,10 @@
       "format": "text",
       "placements": ["banner"],
       "icon_url": "https://arkenrockapp.github.io/coin/icon.png",
-      "title": "Real Strіke Game",
-      "body": "Real Strike Game brings exciting challenges to every round!",
+      "title": "Strіke Game",
+      "body": "Strіke Game brings exciting challenges to every round!",
       "cta_text": "Install",
-      "bundle_id": "com.kalshi.golf.experience",
+      "bundle_id": "com.bigsound.basstoolkit",
       "weight": 1
     }
   ]
